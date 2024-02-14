@@ -1,0 +1,9 @@
+{
+  "name": "guaijie-cdn",
+  "version": "1.0.1",
+  "description": "Something of GuaiJie",
+  "main": "index.js",
+  "repository": "https://github.com/guaiieyo/guaijie-cdn-repo",
+  "author": "GuaiJie",
+  "license": "MIT"
+}
